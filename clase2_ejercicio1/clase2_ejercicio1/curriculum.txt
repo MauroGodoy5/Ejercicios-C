@@ -1,0 +1,16 @@
+Nombre:mauro
+<br>
+apellido:godoy
+<br>
+edad:23
+<br>
+documento:42217643
+<br>
+disponibilidad:full time
+<br>
+movilidad: moto
+<br>
+Comentarios<br>
+nose que poner
+<br>
+<hr>
